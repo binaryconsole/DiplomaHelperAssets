@@ -5,7 +5,7 @@
             "subtitle": "The official webiste of the Department of Technical Education has been changed to the new URL : dtek.karnataka.gov.in",
             "type": "web",
             "path": "https://dtek.karnataka.gov.in/",
-            "image": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/images/notifications/new_website.jpg"
+            "image": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/images/notifications/new_website.jpg"
         }
     ]
 }

@@ -5,8 +5,7 @@
         "type": "Theory",
         "sub_title": "Syllabus & Question papers",
         "subject_code": "15EC51T",
-        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
-        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ec/5/syllabus/1_Organisational_Management_and_Entrepreneurship.pdf",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/ec/5/syllabus/1_Organisational_Management_and_Entrepreneurship.pdf",
         "is_qp_available": true
       },
       {
@@ -14,8 +13,7 @@
         "type": "Theory",
         "sub_title": "Syllabus & Question papers",
         "subject_code": "15EC52T",
-        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
-        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ec/5/syllabus/2_ARM_Controller.pdf",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/ec/5/syllabus/2_ARM_Controller.pdf",
         "is_qp_available": true
       },
       {
@@ -23,8 +21,7 @@
         "type": "Theory",
         "sub_title": "Syllabus & Question papers",
         "subject_code": "15EC53T",
-        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
-        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ec/5/syllabus/3_Advanced_Communication.pdf",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/ec/5/syllabus/3_Advanced_Communication.pdf",
         "is_qp_available": true
       },
       {
@@ -32,8 +29,7 @@
         "type": "Theory",
         "sub_title": "Syllabus & Question papers",
         "subject_code": "15EC54T",
-        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
-        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ec/5/syllabus/4_Applications_of_Electronics_Engineering.pdf",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/ec/5/syllabus/4_Applications_of_Electronics_Engineering.pdf",
         "is_qp_available": true
       },
       {
@@ -41,8 +37,7 @@
         "type": "Lab",
         "sub_title": "Syllabus",
         "subject_code": "15EC55P",
-        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
-        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ec/5/syllabus/5_ARM_Controller_Lab.pdf",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/ec/5/syllabus/5_ARM_Controller_Lab.pdf",
         "is_qp_available": false
       },
       {
@@ -50,8 +45,7 @@
         "type": "Lab",
         "sub_title": "Syllabus",
         "subject_code": "15EC56P",
-        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
-        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ec/5/syllabus/6_PCB_Design_and_Fabrication_Lab.pdf",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/ec/5/syllabus/6_PCB_Design_and_Fabrication_Lab.pdf",
         "is_qp_available": false
       },
       {
@@ -59,8 +53,7 @@
         "type": "Lab",
         "sub_title": "Syllabus",
         "subject_code": "15EC57P",
-        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
-        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ec/5/syllabus/7_Electronics_Servicing_Lab.pdf",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/ec/5/syllabus/7_Electronics_Servicing_Lab.pdf",
         "is_qp_available": false
       },
       {
@@ -68,8 +61,7 @@
         "type": "Project",
         "sub_title": "Syllabus",
         "subject_code": "15EC58P",
-        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
-        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ec/5/syllabus/8_Project_Work_I.pdf",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/ec/5/syllabus/8_Project_Work_I.pdf",
         "is_qp_available": false
       }
     ]

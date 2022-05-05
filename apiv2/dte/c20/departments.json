@@ -5,42 +5,42 @@
       "key": "cs",
       "availableSem": "1,2",
       "visible": true,
-      "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/departments/computer_science.png"
+      "icon": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/icons/departments/computer_science.png"
     },
     {
       "name": "Mechanical Engg",
       "key": "mech",
       "availableSem": "1,2",
       "visible": true,
-      "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/departments/mechanical.png"
+      "icon": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/icons/departments/mechanical.png"
     },
     {
       "name": "Electronics Engg (ECE)",
       "key": "ec",
       "availableSem": "1,2",
       "visible": true,
-      "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/departments/electronics.png"
+      "icon": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/icons/departments/electronics.png"
     },
     {
       "name": "Electrical Engg (ECE)",
       "key": "ee",
       "availableSem": "1,2",
       "visible": true,
-      "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/departments/electrical_engg.png"
+      "icon": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/icons/departments/electrical_engg.png"
     },
     {
       "name": "Civil Engg",
       "key": "ci",
       "availableSem": "1,2",
       "visible": true,
-      "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/departments/civil.png"
+      "icon": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/icons/departments/civil.png"
     },
     {
       "name": "Automobile Engg",
       "key": "am",
       "availableSem": "1,2",
       "visible": true,
-      "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/departments/auto_mobile.png"
+      "icon": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/icons/departments/auto_mobile.png"
     }
   ]
 }

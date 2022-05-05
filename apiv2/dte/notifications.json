@@ -4,15 +4,15 @@
             "title": "Diploma exams postponed due to COVID-19!",
             "subtitle": "Due to increase in numbers of cases of COVID-19, Diploma semester exams has been postponed until further notice.",
             "type": "pdf",
-            "path": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/notifications/exams_postponed.pdf",
-            "image": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/images/notifications/exams_postponed.jpg"
+            "path": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/notifications/exams_postponed.pdf",
+            "image": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/images/notifications/exams_postponed.jpg"
         },
         {
             "title": "New official website for DTE",
             "subtitle": "The official webiste of the Department of Technical Education has been changed to the new URL : dtek.karnataka.gov.in",
             "type": "web",
             "path": "https://dtek.karnataka.gov.in/",
-            "image": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/images/notifications/new_website.jpg"
+            "image": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/images/notifications/new_website.jpg"
         }
     ]
 }

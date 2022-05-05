@@ -5,8 +5,7 @@
         "type": "Theory",
         "sub_title": "Syllabus & Question papers",
         "subject_code": "15CE51T",
-        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
-        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ci/5/syllabus/1_DESIGN_OF_REINFORCED_CEMENT_CONCRETE.pdf",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/ci/5/syllabus/1_DESIGN_OF_REINFORCED_CEMENT_CONCRETE.pdf",
         "is_qp_available": true
       },
       {
@@ -14,8 +13,7 @@
         "type": "Theory",
         "sub_title": "Syllabus & Question papers",
         "subject_code": "15CE52T",
-        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
-        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ci/5/syllabus/2_WATER_RESOURCES_ENGINEERING.pdf",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/ci/5/syllabus/2_WATER_RESOURCES_ENGINEERING.pdf",
         "is_qp_available": true
       },
       {
@@ -23,8 +21,7 @@
         "type": "Theory",
         "sub_title": "Syllabus & Question papers",
         "subject_code": "15CE53T",
-        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
-        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ci/5/syllabus/3_ESTIMATION_and_COSTING_15CE53T.pdf",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/ci/5/syllabus/3_ESTIMATION_and_COSTING_15CE53T.pdf",
         "is_qp_available": true
       },
       {
@@ -32,8 +29,7 @@
         "type": "Theory",
         "sub_title": "Syllabus & Question papers",
         "subject_code": "15CE54T",
-        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
-        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ci/5/syllabus/4_TRANSPORTATION_ENGINEERING_15CE54T.pdf",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/ci/5/syllabus/4_TRANSPORTATION_ENGINEERING_15CE54T.pdf",
         "is_qp_available": true
       },
       {
@@ -41,8 +37,7 @@
         "type": "Theory",
         "sub_title": "Syllabus & Question papers",
         "subject_code": "15CE55D",
-        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
-        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ci/5/syllabus/5_IRRIGATION_AND_BRIDGE DRAWING_15CE55D.pdf",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/ci/5/syllabus/5_IRRIGATION_AND_BRIDGE DRAWING_15CE55D.pdf",
         "is_qp_available": true
       },
       {
@@ -50,8 +45,7 @@
         "type": "Lab",
         "sub_title": "Syllabus",
         "subject_code": "15CE56P",
-        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
-        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ci/5/syllabus/6_CONSTRUCTION_PRACTICE_15CE56P.pdf",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/ci/5/syllabus/6_CONSTRUCTION_PRACTICE_15CE56P.pdf",
         "is_qp_available": false
       },
       {
@@ -59,8 +53,7 @@
         "type": "Lab",
         "sub_title": "Syllabus",
         "subject_code": "15CE57P",
-        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
-        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ci/5/syllabus/7_PROFESSIONAL_PRACTICE_15CE57P.pdf",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/ci/5/syllabus/7_PROFESSIONAL_PRACTICE_15CE57P.pdf",
         "is_qp_available": false
       },
       {
@@ -68,8 +61,7 @@
         "type": "Project",
         "sub_title": "Syllabus",
         "subject_code": "15CE58P",
-        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
-        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ci/5/syllabus/8_PROJECT_WORK_I_15CE58P.pdf",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/ci/5/syllabus/8_PROJECT_WORK_I_15CE58P.pdf",
         "is_qp_available": false
       }
     ]
