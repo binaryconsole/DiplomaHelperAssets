@@ -1,0 +1,11 @@
+{
+    "banners": [
+        {
+            "title": "DTE official website",
+            "type": "web",
+            "visible": true,
+            "path": "https://dtek.karnataka.gov.in/",
+            "image": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/images/notifications/new_website.jpg"
+        }
+    ]
+}

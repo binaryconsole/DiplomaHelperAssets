@@ -1,0 +1,85 @@
+{
+    "subjects": [
+      {
+        "title": "Data Structures using C",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15CS41T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/cs/4/syllabus/1_DS_using_C.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "OOP With Java",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15CS42T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/cs/4/syllabus/2_OOP_with_Java.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Operating System",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15CS43T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/cs/4/syllabus/3_Operating_System.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Professional Ethics & Indian Constitution",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15CS44T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/cs/4/syllabus/4_Prof_Ethics_Indian_Constitution.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Kannada Kali",
+        "type": "Theory (Non-Kannada students)",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15KA4NT",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/cs/3/syllabus/8_Kannada_Kali_1_NK.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Tantrika Kannada",
+        "type": "Theory (Kannada students)",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15KA4KT",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/cs/3/syllabus/9_Tantrika_Kannada_1_K.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Data Structures lab",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15CS45P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/cs/4/syllabus/5_DS_lab.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "OOP with Java Lab",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15CS46P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/cs/4/syllabus/6_OOP_with_Java_Lab.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Linux Lab",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15CS47P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/cs/4/syllabus/7_Linux_lab.pdf",
+        "is_qp_available": false
+      }
+    ]
+  }

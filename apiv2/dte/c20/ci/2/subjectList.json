@@ -1,0 +1,67 @@
+{
+    "subjects": [
+      {
+        "title": "All-In-One Syllabus",
+        "type": "",
+        "sub_title": "Syllabus",
+        "subject_code": "",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c20/ci/2/syllabus/all_in_one.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Engineering Mathematics",
+        "type": "Theory",
+        "subject_code": "20SC01T",
+        "sub_title": "Syllabus",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c20/ci/2/syllabus/engg_maths.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Project Management Skills",
+        "type": "Theory",
+        "sub_title": "Syllabus",
+        "subject_code": "20PM01T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c20/ci/2/syllabus/project_mgmt_skills.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Civil Engineering Graphics",
+        "type": "Lab",
+        "subject_code": "20CE21P",
+        "sub_title": "Syllabus & Question papers",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c20/ci/2/syllabus/civil_engg_graphics.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Basic Surveying",
+        "type": "Lab",
+        "subject_code": "20CE22P",
+        "sub_title": "Syllabus",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c20/ci/2/syllabus/basic_surveying.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Fundamental of Electrical & Electronic Engg",
+        "type": "Lab",
+        "subject_code": "20EE01P",
+        "sub_title": "Syllabus",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c20/ci/2/syllabus/fundamentals_of_eee.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Kannada-1",
+        "type": "Audit",
+        "subject_code": "20KA21T",
+        "sub_title": "Syllabus",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c20/ci/2/syllabus/kannada1.pdf",
+        "is_qp_available": false
+      }
+    ]
+  }

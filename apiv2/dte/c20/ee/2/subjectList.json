@@ -1,0 +1,68 @@
+{
+    "subjects": [
+      {
+        "title": "All-In-One Syllabus",
+        "type": "",
+        "sub_title": "Syllabus",
+        "subject_code": "",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c20/ee/2/syllabus/all_in_one.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Project Management Skills",
+        "type": "Theory",
+        "sub_title": "Syllabus",
+        "subject_code": "20PM01T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c20/ee/2/syllabus/project_mgmt_skills.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Statistics & Analytics",
+        "type": "Lab",
+        "subject_code": "20SC02P",
+        "sub_title": "Syllabus",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c20/ee/2/syllabus/statistics_analytics.pdf",
+        "is_qp_available": false
+      },
+    
+    {
+        "title": "Communication Skills",
+        "type": "Lab",
+        "subject_code": "20EG01P",
+        "sub_title": "Syllabus & Question papers",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c20/ee/2/syllabus/comm_skills.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "IT Skills",
+        "type": "Lab",
+        "subject_code": "20CS01P",
+        "sub_title": "Syllabus",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c20/ee/2/syllabus/it_skills.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Residential Electrical Wiring Practice",
+        "type": "Lab",
+        "subject_code": "20EE21P",
+        "sub_title": "Syllabus",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c20/ee/2/syllabus/residential_practice.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Kannada-1",
+        "type": "Audit",
+        "subject_code": "20KA21T",
+        "sub_title": "Syllabus",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c20/ee/2/syllabus/kannada1.pdf",
+        "is_qp_available": false
+      }
+    ]
+  }

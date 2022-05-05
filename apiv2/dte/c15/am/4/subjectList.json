@@ -1,0 +1,94 @@
+{
+    "subjects": [
+      {
+        "title": "Fluid Power Transmission & Control System",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15AT41T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/am/4/syllabus/1_Fluid_Power_Transmission_controls.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Mechanics of machines",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15ME32T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/am/4/syllabus/2_Mechanics_of_Machines.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Automobile Electrical & Electronics systems",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15AT42T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/am/4/syllabus/3_Automotive_ee_systems.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Professional Ethics & IC",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15ME44T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/am/4/syllabus/4.Professional_Ethics_and_IC.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Kannada Kali-2",
+        "type": "Theory (For Non-Kannada students)",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15KA4NT",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ci/4/syllabus/8_Kannada_Kali_2.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Tantrika Kannada-2",
+        "type": "Theory (For Kannada students)",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15KA4KT",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ci/4/syllabus/9_Tantrika_Kannada_2.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Computer Aided Assembly Drawing",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15AT43D",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/am/4/syllabus/5_Computer_Aided_Assembly_Drawing.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Automobile Electrical & Electronics systems",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15AT44P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/am/4/syllabus/6_Automobile_ee_systems_lab.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Mechanical work shop practice",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15ME06P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/am/4/syllabus/7_Mechanical_workshop_practice.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Scheme of study for Kannada",
+        "type": "C-15 Curriculum",
+        "sub_title": "",
+        "subject_code": "15KA4NT",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ci/4/syllabus/Scheme_of_study_for_Kannada.pdf",
+        "is_qp_available": false
+      }
+    ]
+  }

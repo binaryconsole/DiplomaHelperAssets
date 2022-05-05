@@ -1,0 +1,94 @@
+{
+    "subjects": [
+      {
+        "title": "Hydraulics",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15CE41T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ci/4/syllabus/1_HYDRAULICS.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Sanitary Engineering",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15CE42T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ci/4/syllabus/2_SANITARY_ENGINEERING.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Concrete Technology",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15CE43T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ci/4/syllabus/3_CONCRETE_TECHNOLOGY.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Professional Ethics & Indian Constitution",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15CE44T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ci/4/syllabus/4_Professional_Ethics_and_Indian_Constitution.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Kannada Kali-2",
+        "type": "Theory (For Non-Kannada students)",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15KA4NT",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ci/4/syllabus/8_Kannada_Kali_2.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Tantrika Kannada-2",
+        "type": "Theory (For Kannada students)",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15KA4KT",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ci/4/syllabus/9_Tantrika_Kannada_2.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Soil & Material Testing Lab",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15CE45P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ci/4/syllabus/5_SOIL_and_MATERIAL_TESTING_LAB.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Computer Aided Building Planning and Drawing",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15CE46P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ci/4/syllabus/6_COMPUTER_AIDED_BUILDING_PLANNING_AND_DRAWING.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Hydraulics and Environmental Lab",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15CE47P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ci/4/syllabus/7_HYDRAULICS_AND_ENVIRONMENTAL_ENGINEERING.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Scheme of study for Kannada",
+        "type": "C-15 Curriculum",
+        "sub_title": "",
+        "subject_code": "15KA4NT",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ci/4/syllabus/Scheme_of_study_for_Kannada.pdf",
+        "is_qp_available": false
+      }
+    ]
+  }

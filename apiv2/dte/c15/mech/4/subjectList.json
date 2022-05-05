@@ -1,0 +1,94 @@
+{
+    "subjects": [
+      {
+        "title": "Hydraulics & Pneumatics",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15ME41T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/mech/4/syllabus/1_HYD_and_PNEUMATICS.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Basic Thermal Engineering",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15ME42T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/mech/4/syllabus/2_Basic_Thermal_Engg.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Machine Tool Technology",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15ME43T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/mech/4/syllabus/3_Machine_tool_technology.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Professional Ethics & Indian Constitution",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15ME44T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/mech/4/syllabus/4_Professional_Ethics_and_Indian_Constitution.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Kannada Kali-2",
+        "type": "Theory (Non-Kannada students)",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15KA4NT",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/mech/4/syllabus/8_Kannada_Kali_2.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Tantrika Kannada-2",
+        "type": "Theory (Kannada students)",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15KA4KT",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/mech/4/syllabus/9_Tantrika_Kannada_2.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Hydraulics And Pneumatic Lab",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15ME45P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/mech/4/syllabus/5_HYD_and_PNEUMATICS_LAB.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Machine Shop",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15ME46P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/mech/4/syllabus/6_Machine_Shop.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "C Programming Lab",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15ME47P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/mech/4/syllabus/7_C_Programming_LAB.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Scheme of study for Kannada",
+        "type": "C-15 Curriculum",
+        "sub_title": "Syllabus",
+        "subject_code": "15KA4NT",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/mech/4/syllabus/Scheme_of_study_for_Kannada.pdf",
+        "is_qp_available": false
+      }
+    ]
+  }

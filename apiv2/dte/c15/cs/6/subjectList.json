@@ -1,0 +1,94 @@
+{
+    "subjects": [
+      {
+        "title": "Software Testing",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15CS61T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/cs/6/syllabus/1_Software_Testing.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Network Security & Management",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15CS62T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/cs/6/syllabus/2_Ntwk_Security_Mgmt.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Information Storage and Management",
+        "type": "Theory (Elective)",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15CS63A",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/cs/6/syllabus/3A_Info_Storage_Mgmt.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Cloud Computing",
+        "type": "Theory (Elective)",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15CS63B",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/cs/6/syllabus/3B_Cloud_Comp.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Mobile Computing",
+        "type": "Theory (Elective)",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15CS63C",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/cs/6/syllabus/3C_Mobile_Comp.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Internet of Things",
+        "type": "Theory (Elective)",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15CS63F",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/cs/6/syllabus/3F_IOT.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Software Testing Lab",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15CS64P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/cs/6/syllabus/4_Software_Testing_lab.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Network Security Lab",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15CS65P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/cs/6/syllabus/5_Ntwk_Security_Lab.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Inplant Training",
+        "type": "Professional Development",
+        "sub_title": "Syllabus",
+        "subject_code": "18CS66P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/cs/6/syllabus/6_Inplant_Training.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Project Work Phase-2",
+        "type": "Project",
+        "sub_title": "Syllabus",
+        "subject_code": "15CS67T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/cs/6/syllabus/7_Project_Work_2.pdf",
+        "is_qp_available": false
+      }
+    ]
+  }

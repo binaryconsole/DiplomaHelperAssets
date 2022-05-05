@@ -1,0 +1,67 @@
+{
+    "subjects": [
+      {
+        "title": "Automotive Mechanics",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15AT61T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/am/6/syllabus/1_Automotive_Mechanics.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Automotive Electronics",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15AT62T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/am/6/syllabus/2_Automotive_Electronics.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Engine Maintenance & Estimation",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15AT63T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/am/6/syllabus/3_Engine_maintenance_Estimation.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Engine Testing Lab",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15AT64P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/am/6/syllabus/4_Engine_testig_lab.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Engine Reconditioning Lab",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15AT65P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/am/6/syllabus/5_Engine_recondition_lab.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "PROJECT WORK – II",
+        "type": "Project",
+        "sub_title": "Syllabus",
+        "subject_code": "15AT66P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/am/6/syllabus/6_Project_Work_2.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Inplant Training",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15AT67P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/am/6/syllabus/7_Inplant_training.pdf",
+        "is_qp_available": false
+      }
+    ]
+  }

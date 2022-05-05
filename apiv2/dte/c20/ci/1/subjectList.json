@@ -1,0 +1,58 @@
+{
+    "subjects": [
+      {
+        "title": "All-In-One Syllabus",
+        "type": "",
+        "sub_title": "Syllabus",
+        "subject_code": "",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c20/ci/1/syllabus/all_in_one.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Construction Materials",
+        "type": "Theory",
+        "sub_title": "Syllabus",
+        "subject_code": "20CE11T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c20/ci/1/syllabus/construction_materials.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Communication Skills",
+        "type": "Lab",
+        "subject_code": "20EG01P",
+        "sub_title": "Syllabus",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c20/ci/1/syllabus/communication_skills.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Statistics & Analytics",
+        "type": "Lab",
+        "subject_code": "20SC02P",
+        "sub_title": "Syllabus",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c20/ci/1/syllabus/statistics_analytics.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "IT Skills",
+        "type": "Lab",
+        "subject_code": "20CS01P",
+        "sub_title": "Syllabus",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c20/ci/1/syllabus/it_skills.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Environment Sustainability",
+        "type": "Audit",
+        "subject_code": "20AU01T",
+        "sub_title": "Syllabus",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c20/ci/1/syllabus/envt_sustainability.pdf",
+        "is_qp_available": false
+      }
+    ]
+  }

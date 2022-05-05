@@ -1,0 +1,58 @@
+{
+    "subjects": [
+      {
+        "title": "Engineering Mathematics – II",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15SC02M",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/am/2/syllabus/1_Engg_Maths_2.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Applied Science",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15SC03S",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/am/2/syllabus/2_Applied_Science.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Automobile Engineering - II",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15AT21T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/am/2/syllabus/3_Automobile_engg_2.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Engineering Graphics – II",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15ME21D",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/am/2/syllabus/4_Engg_Graphics_2.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Applied Science Lab",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15SC04P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/am/2/syllabus/5_Applied_Science_Lab.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Automobile Engineering Lab - II",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15AT22P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/am/2/syllabus/6_Automobile_engg_lab_2.pdf",
+        "is_qp_available": false
+      }
+    ]
+  }

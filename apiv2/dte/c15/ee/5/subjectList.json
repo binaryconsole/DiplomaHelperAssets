@@ -1,0 +1,76 @@
+{
+    "subjects": [
+      {
+        "title": "Power Electronics",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15EE51T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ee/5/syllabus/1_Power_Electronics.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Transmision Distribution And Utilisation",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15EE52T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ee/5/syllabus/2_Transmsn_Distrbn_Utilisation.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Switchgear And Protection",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15EE53T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ee/5/syllabus/3_Switchgear_Protection.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Electrical Estimation And Costing",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15EE54T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ee/5/syllabus/4_Ele_Estimation_Costing.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Power Electronics Lab",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15EE55P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ee/5/syllabus/5_Power_Electronics_Lab.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Protective Relays And Servicing Lab",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15EE56P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ee/5/syllabus/6_Protective_relays_and_servicing_lab.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Estimation Simulation Lab",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15EE57P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ee/5/syllabus/7_Estimation_Simulation_Lab.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Project Work -1",
+        "type": "Project",
+        "sub_title": "Syllabus",
+        "subject_code": "15EE58P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ee/5/syllabus/8_Project_Work_I.pdf",
+        "is_qp_available": false
+      }
+    ]
+  }

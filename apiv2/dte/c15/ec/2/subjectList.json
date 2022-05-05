@@ -1,0 +1,58 @@
+{
+    "subjects": [
+      {
+        "title": "Engineering Mathematics-2",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15SC02M",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ec/2/syllabus/1_Engineering_Mathematics_II.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Communication skills in English",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15CP01E",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ec/2/syllabus/2_Communication_Skills_in_Englishpdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Basics of Semiconductor Devices",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15EC21T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ec/2/syllabus/3_Basics_of_Semiconductor_Devices.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Semiconductor Devices Lab",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15EC22P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ec/2/syllabus/4_Semiconductor_Devices_Lab.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Digital Electronics Lab – I",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15EC23P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ec/2/syllabus/5_Digital_Electronics_Lab_I.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Mathematical Simulation Lab",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15EC24P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ec/2/syllabus/6_Mathematical_Simulation_Lab.pdf",
+        "is_qp_available": false
+      }
+    ]
+  }

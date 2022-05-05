@@ -1,0 +1,76 @@
+{
+    "subjects": [
+      {
+        "title": "Software Engineering",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15CS51T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/cs/5/syllabus/1_Software_Engg.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Web Programming",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15CS52T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/cs/5/syllabus/2_Web_Prgm.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Design and Analysis of Algorithms",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15CS53T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/cs/5/syllabus/3_Design_Analysis_Algorithms.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Green Computing",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15CS54T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/cs/5/syllabus/4_Green_Computing.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Web Programming Lab",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15CS55P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/cs/5/syllabus/5_Web_Prgm_Lab.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Design and Analysis of Algorithms Lab",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15CS56P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/cs/5/syllabus/6_DAA_Lab.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Professional Practices",
+        "type": "Assignment Group talk and Practice",
+        "sub_title": "Syllabus",
+        "subject_code": "15CS57P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/cs/5/syllabus/7_Professional_practices.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Project Work Phase-1",
+        "type": "Project",
+        "sub_title": "Syllabus",
+        "subject_code": "15CS58P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/cs/5/syllabus/8_Project_work_1.pdf",
+        "is_qp_available": false
+      }
+    ]
+  }

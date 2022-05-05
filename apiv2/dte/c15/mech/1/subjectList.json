@@ -1,0 +1,58 @@
+{
+    "subjects": [
+      {
+        "title": "Communication Skills In English",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15CP01E",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/mech/1/syllabus/1_Communication_Skills_in_English.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Engineering Mathematics - I",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15SC01M",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/mech/1/syllabus/2_Engineering_Mathematics_I.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Work Shop Technology",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15ME11T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/mech/1/syllabus/3_WorkShop_Technology.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Engineering Graphics-I",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15ME12D",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/mech/1/syllabus/4_Engg_graphics_I.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Basic Computer Skills Lab",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15ME13P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/mech/1/syllabus/5_Basic_Computer_Skills_LAB.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Basic Work Shop Practice-I",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15ME14P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/mech/1/syllabus/6_BASIC_WORKSHOP_PRACTICE_I.pdf",
+        "is_qp_available": false
+      }
+    ]
+  }

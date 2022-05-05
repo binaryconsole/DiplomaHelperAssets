@@ -1,0 +1,94 @@
+{
+    "subjects": [
+      {
+        "title": "Programming with C",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15CS31T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/cs/3/syllabus/1_Prgm_with_C.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Computer Organization",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15CS32T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/cs/3/syllabus/2_Comp_Org.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Database Management Systems",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15CS33T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/cs/3/syllabus/3_DBMS.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Computer Network",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15CS34T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/cs/3/syllabus/4_CompNetwork.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Kannada Kali-1",
+        "type": "Theory (Non-Kannada students)",
+        "sub_title": "Syllabus",
+        "subject_code": "15KA3NT",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/cs/3/syllabus/8_Kannada_Kali_1_NK.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Tantrika Kannada",
+        "type": "Theory (Kannada students)",
+        "sub_title": "Syllabus",
+        "subject_code": "15KA3KT",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/cs/3/syllabus/9_Tantrika_Kannada_1_K.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Programming with C lab",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15CS35P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/cs/3/syllabus/5_Prgm_C_Lab.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "DBMS and GUI lab",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15CS36P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/cs/3/syllabus/6_DBMS_lab.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Network Administration lab",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15CS37P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/cs/3/syllabus/7_Network_lab.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Scheme of study for Kannada",
+        "type": "C-15 Curriculum",
+        "sub_title": "Syllabus",
+        "subject_code": "15KA3KT",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/cs/3/syllabus/Scheme_of_study_for_Kannada.pdf",
+        "is_qp_available": false
+      }
+    ]
+  }

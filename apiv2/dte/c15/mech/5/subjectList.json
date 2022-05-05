@@ -1,0 +1,76 @@
+{
+    "subjects": [
+      {
+        "title": "Industrial Management",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15ME51T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/mech/5/syllabus/1_Industrial_management.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Applied Thermal Engineering",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15ME52T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/mech/5/syllabus/2_Applied_Thermal_Engg.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Machine Design",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15ME53T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/mech/5/syllabus/3_Machine_design.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Mechatronics",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15ME54T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/mech/5/syllabus/4_Mechatronics.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Professional Practices (Mechanical Stream)",
+        "type": "Assignment Group talk and Practice",
+        "sub_title": "Syllabus",
+        "subject_code": "15ME55P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/mech/5/syllabus/5_Professional_practices.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Thermal Engineering Lab",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15ME56P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/mech/5/syllabus/6_Thermal_engineering_lab.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Mechatronics Lab",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15ME57P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/mech/5/syllabus/7_Mechatronics_lab.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Project Work-I (Mechanical Stream)",
+        "type": "Project",
+        "sub_title": "Syllabus",
+        "subject_code": "15ME58P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/mech/5/syllabus/8_Project_work_I.pdf",
+        "is_qp_available": false
+      }
+    ]
+  }

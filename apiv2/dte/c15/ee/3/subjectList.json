@@ -1,0 +1,94 @@
+{
+    "subjects": [
+      {
+        "title": "DC Machines And Alternators",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15EE31T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ee/3/syllabus/1_DC_Machines_and_Alternators.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Electrical Power Generation",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15EE32T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ee/3/syllabus/2_Electrical_Power_generation.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Analog Electronics",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15EE33T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ee/3/syllabus/3_Analog_Electronics_Theory.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Digital Electronics",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15EE34T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ee/3/syllabus/4_Digital_Electronics_Theory.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "DC Machines And Alternators Lab",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15EE35P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ee/3/syllabus/5_DC_Machines_and_Alternator_Lab.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Analog And Digital Lab",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15EE36P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ee/3/syllabus/6_Analog_and_Digital_Lab.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Circuits Simulation Lab",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15EE37P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ee/3/syllabus/7_Circuits_Simulation_Lab.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Kannada Kali-1",
+        "type": "Theory (For Non-Kannada students)",
+        "sub_title": "Syllabus",
+        "subject_code": "15KA3NT",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ee/3/syllabus/8_Kannada_Kali_1_NK.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Tantrika Kannada-1",
+        "type": "Theory (For Kannada students)",
+        "subject_code": "15KA3KT",
+        "sub_title": "Syllabus",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ee/3/syllabus/9_Tantrika_Kannada_1_K.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Scheme of study for Kannada",
+        "type": "C-15 Curriculum",
+        "sub_title": "Syllabus",
+        "subject_code": "15KA3KT",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ee/3/syllabus/Scheme_of_study_for_Kannada.pdf",
+        "is_qp_available": false
+      }
+    ]
+  }

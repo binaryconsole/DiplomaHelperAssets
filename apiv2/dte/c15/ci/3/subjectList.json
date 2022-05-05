@@ -1,0 +1,94 @@
+{
+    "subjects": [
+      {
+        "title": "Engineering Mechanics And Strength of Materials",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15CE31T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ci/3/syllabus/1_ENGINEERING_MECHANICS_AND_STRENGTH_OF_MATERIALS.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Water Supply Engineering",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15CE32T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ci/3/syllabus/2_WATER_SUPPLY_ENGINEERING.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Surveying – II",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15CE33T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ci/3/syllabus/3_SURVEYING_II.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Construction Technology",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15CE34T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ci/3/syllabus/4_CONSTRUCTION_TECHNOLOGY.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Building Planning And Drawing",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15CE35D",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ci/3/syllabus/5_BUILDING_PLANNING_AND_DRAWING.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Kannada Kali-1",
+        "type": "Theory (For Non-Kannada students)",
+        "sub_title": "Syllabus",
+        "subject_code": "15KA3NT",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ci/3/syllabus/8_Kannada_Kali_1_NK.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Tantrika Kannada-1",
+        "type": "Theory (For Kannada students)",
+        "sub_title": "Syllabus",
+        "subject_code": "15KA3KT",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ci/3/syllabus/9_Tantrika_Kannada_1_K.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Surveying Practice - II",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15CE36P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ci/3/syllabus/6_SURVEYING_PRACTICE_II.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Basic Computer Aided Drafting In Civil Engg",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15CE37P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ci/3/syllabus/7_BASIC_CAD_IN_CIVIL_ENGINEERING.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Scheme of study for Kannada",
+        "type": "C-15 Curriculum",
+        "sub_title": "",
+        "subject_code": "15KA3KT",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ci/3/syllabus/Scheme_of_study_for_Kannada.pdf",
+        "is_qp_available": false
+      }
+    ]
+  }

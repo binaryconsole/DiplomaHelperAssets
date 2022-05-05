@@ -1,0 +1,52 @@
+{
+  "departments": [
+    {
+      "id": "1",
+      "name": "Computer Science Engg",
+      "key": "cs",
+      "availableSem": "1,2,3,4,5,6",
+      "visible": true,
+      "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/departments/computer_science.png"
+    },
+    {
+      "id": "2",
+      "name": "Mechanical Engg",
+      "key": "mech",
+      "availableSem": "1,2,3,4,5,6",
+      "visible": true,
+      "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/departments/mechanical.png"
+    },
+    {
+      "id": "3",
+      "name": "Electronics Engg (ECE)",
+      "key": "ec",
+      "availableSem": "1,2,3,4,5,6",
+      "visible": true,
+      "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/departments/electronics.png"
+    },
+    {
+      "id": "4",
+      "name": "Electrical Engg (ECE)",
+      "key": "ee",
+      "availableSem": "1,2,3,4,5,6",
+      "visible": true,
+      "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/departments/electrical_engg.png"
+    },
+    {
+      "id": "5",
+      "name": "Civil Engg",
+      "key": "ci",
+      "availableSem": "1,2,3,4,5,6",
+      "visible": true,
+      "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/departments/civil.png"
+    },
+    {
+      "id": "6",
+      "name": "Automobile Engg",
+      "key": "am",
+      "availableSem": "1,2,3,4,5,6",
+      "visible": true,
+      "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/departments/auto_mobile.png"
+    }
+  ]
+}

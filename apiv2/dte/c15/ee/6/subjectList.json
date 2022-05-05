@@ -1,0 +1,85 @@
+{
+    "subjects": [
+      {
+        "title": "Industrial Drives And Control",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15EE61T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ee/6/syllabus/1_Industrial_Drives_Control.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Basic Management Skills & Energy Management",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15EE62T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ee/6/syllabus/2_Basic_Mgmt_Skills_Engy_Mgmt.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Mechatronics",
+        "type": "Theory (Elective)",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15EE63A",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ee/6/syllabus/3A_Mechatronics.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Testing, Maintenance And Control of Substation",
+        "type": "Theory (Elective)",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15EE63B",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ee/6/syllabus/3B_Testing_Maintenance_Control_Substn.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Embedded Systems",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15EE63C",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ee/6/syllabus/3C_Embedded_Systems.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Motor Controland PLC Lab",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15EE64P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ee/6/syllabus/4_Motor_Control_PLC_Lab.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Professional Practice Lab",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15EE65P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ee/6/syllabus/5_Professional_Practice_Lab.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Project Work (Electrical and Electronics)",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15EE66P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ee/6/syllabus/6_Project_Work_II.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Inplant Training",
+        "type": "Professional Development",
+        "sub_title": "Syllabus",
+        "subject_code": "15EE67P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ee/6/syllabus/7_Inplant_Training.pdf",
+        "is_qp_available": false
+      }
+    ]
+  }

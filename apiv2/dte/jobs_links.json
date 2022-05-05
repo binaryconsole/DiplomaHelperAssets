@@ -1,0 +1,46 @@
+{
+    "jobs": [
+        {
+            "title": "Automobile Engg jobs",
+            "subtitle": "Latest Diploma Automobile Engg jobs from in.indeed.com",
+            "type": "web",
+            "path": "https://in.indeed.com/jobs?q=diploma+automobile+engineering&l=",
+            "image": ""
+        },
+        {
+            "title": "Civil Engg jobs",
+            "subtitle": "Latest Diploma Civil Engg jobs from in.indeed.com",
+            "type": "web",
+            "path": "https://in.indeed.com/jobs?q=diploma+civil+engineer&l=",
+            "image": ""
+        },
+        {
+            "title": "Computer Science Engg jobs",
+            "subtitle": "Latest Diploma Computer science Engg jobs from in.indeed.com",
+            "type": "web",
+            "path": "https://in.indeed.com/jobs?q=diploma+computer+engineering&l=",
+            "image": ""
+        },
+        {
+            "title": "Electronics & Communication Engg jobs",
+            "subtitle": "Latest Diploma Electronics & communication Engg jobs from in.indeed.com",
+            "type": "web",
+            "path": "https://in.indeed.com/jobs?q=diploma+in+electronics+and+communication&l=",
+            "image": ""
+        },
+        {
+            "title": "Electrical & Electronics Engg jobs",
+            "subtitle": "Latest Diploma Electrical & Electronics Engg jobs from in.indeed.com",
+            "type": "web",
+            "path": "https://in.indeed.com/jobs?q=diploma+in+electrical+engineering&l=",
+            "image": ""
+        },
+        {
+            "title": "Mechanical Engg jobs",
+            "subtitle": "Latest Diploma Mechanical Engg jobs from in.indeed.com",
+            "type": "web",
+            "path": "https://in.indeed.com/jobs?q=diploma+in+mechanical+engineering&l=",
+            "image": ""
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "subjects": [
+      {
+        "title": "Strength of Materials",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15ME31T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/mech/3/syllabus/1_Strength_of_materials.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Mechanics of Machines",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15ME32T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/mech/3/syllabus/2_Mechanics_of_Machines.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Mechanical Measurements",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15ME33T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/mech/3/syllabus/3_Mechanical_Measurements.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Machine Drawing",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15ME34D",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/files.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/mech/3/syllabus/4_Machine_Drawing.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Mechanical Computer Aided Drafting (MCAD)",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15ME35P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/mech/3/syllabus/5_M_CAD_LAB.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Basic Work Shop Practice- II",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15ME36P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/mech/3/syllabus/6_Basic_workshop_practice_II.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Mechanical Testing And Quality Control Lab",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15ME37P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/mech/3/syllabus/7_MT_and_QC_LAB.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Kannada Kali-1",
+        "type": "Theory (For Non-Kannada students)",
+        "sub_title": "Syllabus",
+        "subject_code": "15KA3NT",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/mech/3/syllabus/8_Kannada_Kali_1_NK.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Tantrika Kannada",
+        "type": "Theory (For Kannada students)",
+        "sub_title": "Syllabus",
+        "subject_code": "15KA3KT",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/mech/3/syllabus/9_Tantrika_Kannada_1_K.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Scheme of study for Kannada",
+        "type": "C-15 Curriculum",
+        "sub_title": "",
+        "subject_code": "15KA3KT",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/mech/3/syllabus/Scheme_of_study_for_Kannada.pdf",
+        "is_qp_available": false
+      }
+    ]
+  }

@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "name": "2015 (C-15) Syllabus \nQuestion papers",
+      "key": "syllabus_c15",
+      "visible": true,
+      "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/sem/qp.png"
+    },
+    {
+      "id": "2",
+      "name": "Contribution",
+      "key": "contribute",
+      "visible": true,
+      "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/dashboard/contribute.png"
+    },
+    {
+      "id": "3",
+      "name": "Useful info",
+      "key": "useful",
+      "visible": true,
+      "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/dashboard/info.png"
+    },
+    {
+      "id": "4",
+      "name": "Results",
+      "key": "result",
+      "visible": true,
+      "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/dashboard/result.png"
+    },
+    {
+      "id": "5",
+      "name": "Jobs",
+      "key": "jobs",
+      "visible": true,
+      "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/dashboard/jobs.png"
+    },
+    {
+      "id": "6",
+      "name": "2020 (C-20) Syllabus only",
+      "key": "syllabus_c20",
+      "visible": true,
+      "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/sem/qp.png"
+    }
+  ]
+}

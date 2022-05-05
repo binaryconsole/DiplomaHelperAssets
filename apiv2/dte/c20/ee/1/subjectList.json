@@ -1,0 +1,58 @@
+{
+    "subjects": [
+      {
+        "title": "All-In-One Syllabus",
+        "type": "",
+        "sub_title": "Syllabus",
+        "subject_code": "",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c20/ee/1/syllabus/all_in_one.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Engineering Mathermatics",
+        "type": "Theory",
+        "sub_title": "Syllabus",
+        "subject_code": "20SC01T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c20/ee/1/syllabus/engg_maths.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Basics of Electrical Power System",
+        "type": "Theory",
+        "subject_code": "20EE11T",
+        "sub_title": "Syllabus",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c20/ee/1/syllabus/basics_of_electrical_pwr_system.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Computer Aided Engg Graphics",
+        "type": "Lab",
+        "subject_code": "20ME02P",
+        "sub_title": "Syllabus",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c20/ee/1/syllabus/comp_aided_engg_graphics.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Fundamentals of Electrical & Electronics Engg",
+        "type": "Lab",
+        "subject_code": "20EE01P",
+        "sub_title": "Syllabus",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c20/ee/1/syllabus/fundamentals_of_eee.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Environment Sustainability",
+        "type": "Audit",
+        "subject_code": "20AU01T",
+        "sub_title": "Syllabus",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c20/ee/1/syllabus/envt_sustainability.pdf",
+        "is_qp_available": false
+      }
+    ]
+  }

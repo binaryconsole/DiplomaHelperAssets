@@ -1,0 +1,85 @@
+{
+    "subjects": [
+      {
+        "title": "Industrial Automation",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15EC61T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ec/6/syllabus/1_Industrial_Automation_Theory.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Embedded Systems",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15EC62T",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ec/6/syllabus/2_Embedded_Systems.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Medical Electronics",
+        "type": "Theory (Elective)",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15EC63A",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ec/6/syllabus/3A_Medical_electronics.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Advanced Microprocessors",
+        "type": "Theory (Elective)",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15EC63B",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ec/6/syllabus/3B_Advanced_Microprocessors.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Object Oriented Programming Using C++",
+        "type": "Theory (Elective)",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15EC63C",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ec/6/syllabus/3C_OOPS_Using_C++.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Industrial Automation Lab",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15EC64P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ec/6/syllabus/4_Industrial_Automation_Lab.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Verilog Lab",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15EC65P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ec/6/syllabus/5_Verilog_Lab.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Project Work-II",
+        "type": "Project",
+        "sub_title": "Syllabus",
+        "subject_code": "15EC66P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ec/6/syllabus/6_Project_2.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Inplant Training",
+        "type": "Professional Development",
+        "sub_title": "Syllabus",
+        "subject_code": "15EC67P",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c15/ec/6/syllabus/7_Inplant_Training.pdf",
+        "is_qp_available": false
+      }
+    ]
+  }
