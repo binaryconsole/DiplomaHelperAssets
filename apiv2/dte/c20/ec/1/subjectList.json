@@ -11,10 +11,10 @@
       {
         "title": "Digital Electronics",
         "type": "Theory",
-        "sub_title": "Syllabus",
+        "sub_title": "Syllabus & Question papers",
         "subject_code": "20EC11T",
         "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/ec/1/syllabus/digital_electronics.pdf",
-        "is_qp_available": false
+        "is_qp_available": true
       },
       {
         "title": "Statistics & Analytics",

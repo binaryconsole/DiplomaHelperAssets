@@ -11,18 +11,18 @@
       {
         "title": "Engineering Mathematics",
         "type": "Theory",
-        "sub_title": "Syllabus",
+        "sub_title": "Syllabus & Question papers",
         "subject_code": "20SC01T",
         "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/mech/1/syllabus/mathematics.pdf",
-        "is_qp_available": false
+        "is_qp_available": true
       },
       {
         "title": "Materials for Engineering",
         "type": "Theory",
         "subject_code": "20ME11T",
-        "sub_title": "Syllabus",
+        "sub_title": "Syllabus & Question papers",
         "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/mech/1/syllabus/materials_for_engg.pdf",
-        "is_qp_available": false
+        "is_qp_available": true
       },
       {
         "title": "Communication Skills",

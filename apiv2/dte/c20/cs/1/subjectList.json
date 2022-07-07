@@ -11,18 +11,18 @@
       {
         "title": "Engineering Mathematics",
         "type": "Theory",
-        "sub_title": "Syllabus",
+        "sub_title": "Syllabus & Question papers",
         "subject_code": "20SC01T",
         "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/cs/1/syllabus/mathematics.pdf",
-        "is_qp_available": false
+        "is_qp_available": true
       },
       {
         "title": "Fundamentals of computer",
         "type": "Theory",
         "subject_code": "20CS11T",
-        "sub_title": "Syllabus",
+        "sub_title": "Syllabus & Question papers",
         "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/cs/1/syllabus/fundamentals_of_computer.pdf",
-        "is_qp_available": false
+        "is_qp_available": true
       },
       {
         "title": "Fundamentals of Electrical & Electronics Engg",
