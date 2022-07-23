@@ -5,7 +5,7 @@
         "type": "",
         "sub_title": "Syllabus",
         "subject_code": "",
-        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c20/cs/3/syllabus/all_in_one.pdf",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/cs/3/syllabus/all_in_one.pdf",
         "is_qp_available": false
       },
       {
@@ -13,7 +13,7 @@
         "type": "Programme Core",
         "sub_title": "Syllabus",
         "subject_code": "20CS31P",
-       "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c20/cs/3/syllabus/python.pdf",
+       "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/cs/3/syllabus/python.pdf",
         "is_qp_available": false
       },
       {
@@ -21,7 +21,7 @@
         "type": "Programme Core",
         "subject_code": "20CS32P",
         "sub_title": "Syllabus",
-        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c20/cs/3/syllabus/computer_hardware.pdf",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/cs/3/syllabus/computer_hardware.pdf",
         "is_qp_available": false
       },
       {
@@ -29,7 +29,7 @@
         "type": "Programme Core",
         "subject_code": "20CS33P",
         "sub_title": "Syllabus",
-        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c20/cs/3/syllabus/computer_networks.pdf",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/cs/3/syllabus/computer_networks.pdf",
         "is_qp_available": false
       },
       {
@@ -37,8 +37,7 @@
         "type": "Programme Core",
         "subject_code": "20CS34P",
         "sub_title": "Syllabus",
-        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
-        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c20/cs/3/syllabus/database.pdf",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/cs/3/syllabus/database.pdf",
         "is_qp_available": false
       },
       {
@@ -46,7 +45,7 @@
         "type": "Audit",
         "subject_code": "20KA31T",
         "sub_title": "Syllabus",
-        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c20/cs/3/syllabus/kannada.pdf",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/cs/3/syllabus/kannada.pdf",
         "is_qp_available": false
       },
       {
@@ -54,7 +53,7 @@
         "type": "Audit",
         "subject_code": "20KA31T",
         "sub_title": "Syllabus",
-        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c20/cs/3/syllabus/non_ka_kannada.pdf",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/cs/3/syllabus/non_ka_kannada.pdf",
         "is_qp_available": false
       }
     ]

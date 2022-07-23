@@ -5,7 +5,7 @@
         "type": "",
         "sub_title": "Syllabus",
         "subject_code": "",
-        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c20/cs/4/syllabus/all_in_one.pdf",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/cs/4/syllabus/all_in_one.pdf",
         "is_qp_available": false
       },
       {
@@ -13,7 +13,7 @@
         "type": "Programme Core",
         "sub_title": "Syllabus",
         "subject_code": "20CS41P",
-        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c20/cs/4/syllabus/DS_with_python.pdf",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/cs/4/syllabus/DS_with_python.pdf",
         "is_qp_available": false
       },
       {
@@ -21,7 +21,7 @@
         "type": "Programme Core",
         "subject_code": "20CS42P",
         "sub_title": "Syllabus",
-        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c20/cs/4/syllabus/os.pdf",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/cs/4/syllabus/os.pdf",
         "is_qp_available": false
       },
       {
@@ -29,7 +29,7 @@
         "type": "Programme Core",
         "subject_code": "20CS43P",
         "sub_title": "Syllabus",
-        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c20/cs/4/syllabus/oops_with_java.pdf",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/cs/4/syllabus/oops_with_java.pdf",
         "is_qp_available": false
       },
       {
@@ -37,7 +37,7 @@
         "type": "Programme Core",
         "subject_code": "20CS44P",
         "sub_title": "Syllabus",
-        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c20/cs/4/syllabus/software_engg.pdf",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/cs/4/syllabus/software_engg.pdf",
         "is_qp_available": false
       },
       {
@@ -45,7 +45,7 @@
         "type": "Audit",
         "subject_code": "20CS45T",
         "sub_title": "Syllabus",
-        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c20/cs/4/syllabus/indian_constitution.pdf",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/cs/4/syllabus/indian_constitution.pdf",
         "is_qp_available": false
       }
     ]
