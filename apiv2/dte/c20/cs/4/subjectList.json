@@ -1,0 +1,52 @@
+{
+    "subjects": [
+      {
+        "title": "All-In-One Syllabus",
+        "type": "",
+        "sub_title": "Syllabus",
+        "subject_code": "",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c20/cs/4/syllabus/all_in_one.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Data Structures with Python",
+        "type": "Programme Core",
+        "sub_title": "Syllabus",
+        "subject_code": "20CS41P",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c20/cs/4/syllabus/DS_with_python.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Operating System & Administration",
+        "type": "Programme Core",
+        "subject_code": "20CS42P",
+        "sub_title": "Syllabus",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c20/cs/4/syllabus/os.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "OOP and Design with Java",
+        "type": "Programme Core",
+        "subject_code": "20CS43P",
+        "sub_title": "Syllabus",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c20/cs/4/syllabus/oops_with_java.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Software engg priciples and practices",
+        "type": "Programme Core",
+        "subject_code": "20CS44P",
+        "sub_title": "Syllabus",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c20/cs/4/syllabus/software_engg.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Indian Constitution",
+        "type": "Audit",
+        "subject_code": "20CS45T",
+        "sub_title": "Syllabus",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c20/cs/4/syllabus/indian_constitution.pdf",
+        "is_qp_available": false
+      }
+    ]
+  }

@@ -1,0 +1,61 @@
+{
+    "subjects": [
+      {
+        "title": "All-In-One Syllabus",
+        "type": "",
+        "sub_title": "Syllabus",
+        "subject_code": "",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c20/cs/3/syllabus/all_in_one.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Python Programming",
+        "type": "Programme Core",
+        "sub_title": "Syllabus",
+        "subject_code": "20CS31P",
+       "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c20/cs/3/syllabus/python.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Computer Hardware, Maintenance & Administration",
+        "type": "Programme Core",
+        "subject_code": "20CS32P",
+        "sub_title": "Syllabus",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c20/cs/3/syllabus/computer_hardware.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Computer Networks",
+        "type": "Programme Core",
+        "subject_code": "20CS33P",
+        "sub_title": "Syllabus",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c20/cs/3/syllabus/computer_networks.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Database System concepts & PL/SQL",
+        "type": "Programme Core",
+        "subject_code": "20CS34P",
+        "sub_title": "Syllabus",
+        "icon": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/icons/file/file.png",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c20/cs/3/syllabus/database.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Sahithya Sinchana-2",
+        "type": "Audit",
+        "subject_code": "20KA31T",
+        "sub_title": "Syllabus",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c20/cs/3/syllabus/kannada.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Balake Kannada-2",
+        "type": "Audit",
+        "subject_code": "20KA31T",
+        "sub_title": "Syllabus",
+        "syllabus": "https://bitbucket.org/AndroidVipra/diplomahelperresources/raw/master/resources/files/c20/cs/3/syllabus/non_ka_kannada.pdf",
+        "is_qp_available": false
+      }
+    ]
+  }
