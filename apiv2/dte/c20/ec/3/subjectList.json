@@ -1,0 +1,68 @@
+{
+    "subjects": [
+      {
+        "title": "All-In-One Syllabus",
+        "type": "",
+        "sub_title": "Syllabus",
+        "subject_code": "",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/ec/3/syllabus/all_in_one.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Analog Electronics",
+        "type": "Programme Core",
+        "sub_title": "Syllabus",
+        "subject_code": "20EC31P",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/ec/3/syllabus/analog_electronics.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Logic design using Verilog",
+        "type": "Programme Core",
+        "subject_code": "20EC32P",
+        "sub_title": "Syllabus",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/ec/3/syllabus/ld_verilog.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Communication Systems",
+        "type": "Programme Core",
+        "subject_code": "20EC33P",
+        "sub_title": "Syllabus",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/ec/3/syllabus/communication_systems.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Electronic measurements & Testing techniques",
+        "type": "Programme Core",
+        "subject_code": "20EC34P",
+        "sub_title": "Syllabus",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/ec/3/syllabus/emtt.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Environment Sustainability",
+        "type": "Audit",
+        "subject_code": "20AU01T",
+        "sub_title": "Syllabus",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/ec/3/syllabus/envt_sustainability.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Sahithya Sinchana-2",
+        "type": "Audit",
+        "subject_code": "20KA31T",
+        "sub_title": "Syllabus",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/ec/3/syllabus/kannada.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Balake Kannada-2",
+        "type": "Audit",
+        "subject_code": "20KA31T",
+        "sub_title": "Syllabus",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/ec/3/syllabus/non_ka_kannada.pdf",
+        "is_qp_available": false
+      }
+    ]
+  }
