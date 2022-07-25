@@ -51,7 +51,7 @@
       {
         "title": "Balake Kannada-2",
         "type": "Audit",
-        "subject_code": "20KA31T",
+        "subject_code": "20KA31T_",
         "sub_title": "Syllabus",
         "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/cs/3/syllabus/non_ka_kannada.pdf",
         "is_qp_available": false

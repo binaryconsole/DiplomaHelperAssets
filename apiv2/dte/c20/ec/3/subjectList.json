@@ -14,7 +14,7 @@
         "sub_title": "Syllabus",
         "subject_code": "20EC31P",
         "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/ec/3/syllabus/analog_electronics.pdf",
-        "is_qp_available": true
+        "is_qp_available": false
       },
       {
         "title": "Logic design using Verilog",
@@ -51,7 +51,7 @@
       {
         "title": "Balake Kannada-2",
         "type": "Audit",
-        "subject_code": "20KA31T",
+        "subject_code": "20KA31T_",
         "sub_title": "Syllabus",
         "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/ec/3/syllabus/non_ka_kannada.pdf",
         "is_qp_available": false

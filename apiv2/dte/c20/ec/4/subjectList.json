@@ -14,7 +14,7 @@
         "sub_title": "Syllabus",
         "subject_code": "20EC41P",
         "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/ec/4/syllabus/pcbdf.pdf",
-        "is_qp_available": true
+        "is_qp_available": false
       },
       {
         "title": "Wireless Communication",
