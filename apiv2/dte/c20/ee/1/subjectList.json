@@ -20,9 +20,9 @@
         "title": "Basics of Electrical Power System",
         "type": "Theory",
         "subject_code": "20EE11T",
-        "sub_title": "Syllabus",
+        "sub_title": "Syllabus & Question papers",
         "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/ee/1/syllabus/basics_of_electrical_pwr_system.pdf",
-        "is_qp_available": false
+        "is_qp_available": true
       },
       {
         "title": "Computer Aided Engg Graphics",
