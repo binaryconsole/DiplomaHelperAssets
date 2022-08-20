@@ -1,5 +1,13 @@
 {
     "banners": [
+
+        {
+            "title": "Draft Time Table September 2022",
+            "type": "pdf",
+            "visible": true,
+            "path": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/notifications/draft_tt_sep2022.pdf",
+            "image": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/images/banners/draft_tt_sep2022.png"
+        },
         {
             "title": "DTE official website",
             "type": "web",
