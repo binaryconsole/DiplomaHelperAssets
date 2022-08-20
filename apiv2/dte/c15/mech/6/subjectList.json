@@ -35,18 +35,18 @@
       {
         "title": "Renewable Energy Resources",
         "type": "Theory (Elective)",
-        "sub_title": "Syllabus & Question papers",
+        "sub_title": "Syllabus",
         "subject_code": "15ME63C",
         "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/mech/6/syllabus/3_EC_Renewable_Energy_Resources.pdf",
-        "is_qp_available": true
+        "is_qp_available": false
       },
       {
         "title": "Refrigeration And Air Conditioning",
         "type": "Theory (Elective)",
-        "sub_title": "Syllabus & Question papers",
+        "sub_title": "Syllabus",
         "subject_code": "15ME63F",
         "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/mech/6/syllabus/3_ED_Refrigeration_and_AirConditioning.pdf",
-        "is_qp_available": true
+        "is_qp_available": false
       },
       {
         "title": "CNC Lab",
