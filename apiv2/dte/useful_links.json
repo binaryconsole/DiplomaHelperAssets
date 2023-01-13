@@ -6,6 +6,21 @@
             "type": "web",
             "path": "https://dtek.karnataka.gov.in/",
             "image": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/images/notifications/new_website.jpg"
+        },
+        {
+            "title": "Karnataka examinations authority",
+            "subtitle": "KEA is governed by the Governing Council headed by the Honourable Minister of Higher Education, GOK",
+            "type": "web",
+            "path": "https://cetonline.karnataka.gov.in/kea/",
+            "image": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/images/notifications/new_website.jpg"
+        },
+        {
+            "title": "DTE studio channel",
+            "subtitle": "Official DTE Youtube channel for DTE e-Studio online smart class  activities",
+            "type": "web",
+            "path": "https://www.youtube.com/c/DTEStudioChannelBengaluru/videos",
+            "image": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/images/notifications/new_website.jpg"
         }
+        
     ]
 }
