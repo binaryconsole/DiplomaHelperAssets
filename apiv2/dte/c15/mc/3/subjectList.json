@@ -1,0 +1,84 @@
+{
+    "subjects": [
+      {
+        "title": " Elements of Mechanical Engineering Science",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15MC31T",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/mc/3/syllabus/15MC31T.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Analog Electronics",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15MC32T",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/mc/3/syllabus/15MC32T.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Fluid Power Engineering",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15MC33T",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/mc/3/syllabus/15MC33T.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Microcontroller and Applications",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15MC34T",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/mc/3/syllabus/15MC34T.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Electro Pneumatics Lab",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15MC35P",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/mc/3/syllabus/15MC35P.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Analog Electronics Lab",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15MC36P",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/mc/3/syllabus/15MC36P.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Microcontroller and Interfacing lab",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15MC37P",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/mc/3/syllabus/15MC37P.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Kannada Kali-1",
+        "type": "Theory (For Non-Kannada students)",
+        "sub_title": "Syllabus",
+        "subject_code": "15KA3NT",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/ee/3/syllabus/8_Kannada_Kali_1_NK.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Tantrika Kannada-1",
+        "type": "Theory (For Kannada students)",
+        "subject_code": "15KA3KT",
+        "sub_title": "Syllabus",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/ee/3/syllabus/9_Tantrika_Kannada_1_K.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Scheme of study for Kannada",
+        "type": "C-15 Curriculum",
+        "sub_title": "Syllabus",
+        "subject_code": "15KA3KT",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/ee/3/syllabus/Scheme_of_study_for_Kannada.pdf",
+        "is_qp_available": false
+      }
+    ]
+  }
