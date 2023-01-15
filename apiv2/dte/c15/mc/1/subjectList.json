@@ -1,0 +1,52 @@
+{
+    "subjects": [
+      {
+        "title": "Engineering Mathematics-I",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15SC01M",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/ee/1/syllabus/2_Engineering_Mathematics_I.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Applied Science",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15SC03S",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/ee/1/syllabus/1_Applied_Science.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Basic Electrical and Electronic engineering",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15EE01E",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/mech/2/syllabus/3_Basics_of_Electrical_and_Electronics_Engineering.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Applied Science Lab",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15SC04P",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/ee/1/syllabus/4_Applied_Science_Lab.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Basic Electrical And Electronics Engineering Lab",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15EE02P",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/mech/2/syllabus/6_Basics_of_Electrical_and_Electronics_Engg_Lab.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Basic Computer Skills Lab",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15MC11P",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/mc/1/syllabus/6_Basic_Computer_Skills_Lab.pdf",
+        "is_qp_available": false
+      }
+    ]
+  }
