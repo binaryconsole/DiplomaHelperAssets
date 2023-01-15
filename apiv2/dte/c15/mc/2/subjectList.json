@@ -1,0 +1,52 @@
+{
+    "subjects": [
+      {
+        "title": "Engineering Mathematics – II",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15SC02M",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/ee/2/syllabus/2_Engineering_Mathematics_II.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Communication Skills In English",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15CP01E",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/ee/2/syllabus/1_Communication_Skills_in_English.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Fundamentals of Digital Electronics",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15MC21T",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/mc/2/syllabus/3_fundamentals_of_digital_electronics.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Engineering Drawing",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15ME01D",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/ee/2/syllabus/4_ME_Engg_Drawing_Allied.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "C Programming Lab",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15MC22P",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/mc/2/syllabus/5_c_programming_lab.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Digital Electronics Lab",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15MC23P",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/mc/2/syllabus/6_digital_electronics_lab.pdf",
+        "is_qp_available": false
+      }
+    ]
+  }
