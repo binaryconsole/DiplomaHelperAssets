@@ -2,11 +2,11 @@
     "banners": [
 
         {
-            "title": "Draft Time Table September 2022",
-            "type": "pdf",
+            "title": "New 2022 Question papers added",
+            "type": "",
             "visible": true,
-            "path": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/notifications/draft_tt_sep2022.pdf",
-            "image": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/images/banners/draft_tt_sept2022.jpg"
+            "path": "",
+            "image": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/images/banners/new_qps_added.png"
         },
         {
             "title": "DTE official website",
