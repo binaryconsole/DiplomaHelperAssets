@@ -1,8 +1,14 @@
 {
     "banners": [
-
         {
-            "title": "New 2022 Question papers added",
+            "title": "Mechatronics branch added!!",
+            "type": "",
+            "visible": true,
+            "path": "",
+            "image": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/images/banners/machatronic_branch.jpg"
+        },
+        {
+            "title": "New 2022 Question papers added!",
             "type": "",
             "visible": true,
             "path": "",
