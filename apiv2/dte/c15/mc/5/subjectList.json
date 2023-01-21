@@ -1,0 +1,76 @@
+{
+    "subjects": [
+      {
+        "title": "Programmable Logic Controller",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15MC51T",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/mc/5/syllabus/15MC51T.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Design of Mechatronics Systems",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15MC52T",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/mc/5/syllabus/15MC52T.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Industrial Engineering and Management",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15MC53T",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/mc/5/syllabus/15MC53T.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Micro Electro Mechanical Systems",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15MC54A",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/mc/5/syllabus/15MC54A.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Control Engineering",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15MC54B",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/mc/5/syllabus/15MC54B.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Programmable Logic Controller Lab",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15MC55P",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/mc/5/syllabus/15MC55P.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Interfacing Lab",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15MC56P",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/mc/5/syllabus/15MC56P.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Professional Practice",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15MC57P",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/mc/5/syllabus/15MC57P.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Project work-I on Design of Mechatronics System",
+        "type": "Project",
+        "sub_title": "Syllabus",
+        "subject_code": "15MC58P",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/mc/5/syllabus/15MC58P.pdf",
+        "is_qp_available": false
+      }
+    ]
+  }
