@@ -1,0 +1,84 @@
+{
+    "subjects": [
+      {
+        "title": "Manufacturing Science",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15MC41T",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/mc/4/syllabus/15MC41T.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Industrial Electronics",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15MC42T",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/mc/4/syllabus/15MC42T.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Measurement Systems",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15MC43T",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/mc/4/syllabus/15MC43T.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Professional Ethics & Indian Constitution",
+        "type": "Theory",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15ME44T",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/mech/4/syllabus/4_Professional_Ethics_and_Indian_Constitution.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Kannada Kali-2",
+        "type": "Theory (For Non-Kannada students)",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15KA4NT",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/ee/4/syllabus/8_Kannada_Kali_2.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Tantrika Kannada-2",
+        "type": "Theory (For Kannada students)",
+        "sub_title": "Syllabus & Question papers",
+        "subject_code": "15KA4KT",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/ee/4/syllabus/9_Tantrika_Kannada_2.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Industrial Electronics and DAS Lab",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15MC44P",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/mc/4/syllabus/15MC44P.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Computer Aided Drawing Lab",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15MC45P",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/mc/4/syllabus/15MC45P.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Machine Shop",
+        "type": "Lab",
+        "sub_title": "Syllabus",
+        "subject_code": "15MC46P",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/mc/4/syllabus/15MC46P.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Scheme of study for Kannada",
+        "type": "C-15 Curriculum",
+        "sub_title": "",
+        "subject_code": "15KA4NT",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c15/ee/4/syllabus/Scheme_of_study_for_Kannada.pdf",
+        "is_qp_available": false
+      }
+    ]
+  }
