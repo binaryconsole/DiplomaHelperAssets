@@ -19,10 +19,10 @@
       {
         "title": "Project Management Skills",
         "type": "Theory",
-        "sub_title": "Syllabus",
+        "sub_title": "Syllabus & Question papers",
         "subject_code": "20PM01T",
         "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/ci/2/syllabus/project_mgmt_skills.pdf",
-        "is_qp_available": false
+        "is_qp_available": true
       },
       {
         "title": "Civil Engineering Graphics",
