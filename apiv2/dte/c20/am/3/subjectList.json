@@ -1,0 +1,60 @@
+{
+    "subjects": [
+      {
+        "title": "All-In-One Syllabus",
+        "type": "",
+        "sub_title": "Syllabus",
+        "subject_code": "",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/am/3/syllabus/all_in_one.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Automobile Chassis & Transmission",
+        "type": "Programme Core",
+        "sub_title": "Syllabus",
+        "subject_code": "20AT31P",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/am/3/syllabus/20AT31P.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Automotive Electrical System",
+        "type": "Programme Core",
+        "subject_code": "20AT32P",
+        "sub_title": "Syllabus",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/am/3/syllabus/20AT32P.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Thermal Engg & Engine Testing",
+        "type": "Programme Core",
+        "subject_code": "20AT33P",
+        "sub_title": "Syllabus",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/am/3/syllabus/20AT33P.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Automotive Manufacturing Processes",
+        "type": "Programme Core",
+        "subject_code": "20AT34P",
+        "sub_title": "Syllabus",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/am/3/syllabus/20AT34P.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Sahithya Sinchana-2",
+        "type": "Audit",
+        "subject_code": "20KA31T",
+        "sub_title": "Syllabus",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/ec/3/syllabus/kannada.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Balake Kannada-2",
+        "type": "Audit",
+        "subject_code": "20KA31T_",
+        "sub_title": "Syllabus",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/ec/3/syllabus/non_ka_kannada.pdf",
+        "is_qp_available": false
+      }
+    ]
+  }

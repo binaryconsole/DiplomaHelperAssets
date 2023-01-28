@@ -1,0 +1,52 @@
+{
+    "subjects": [
+      {
+        "title": "All-In-One Syllabus",
+        "type": "",
+        "sub_title": "Syllabus",
+        "subject_code": "",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/ec/4/syllabus/all_in_one.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "PCB Design & Fabrication",
+        "type": "Programme Core",
+        "sub_title": "Syllabus",
+        "subject_code": "20EC41P",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/ec/4/syllabus/pcbdf.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Wireless Communication",
+        "type": "Programme Core",
+        "subject_code": "20EC42P",
+        "sub_title": "Syllabus",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/ec/4/syllabus/wireless_comm.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Embedded C Programming",
+        "type": "Programme Core",
+        "subject_code": "20EC43P",
+        "sub_title": "Syllabus",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/ec/4/syllabus/embedded_c.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Industrial Automation",
+        "type": "Programme Core",
+        "subject_code": "20EC44P",
+        "sub_title": "Syllabus",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/ec/4/syllabus/industrial_auto.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Indian Constitution",
+        "type": "Audit",
+        "subject_code": "20EC45T",
+        "sub_title": "Syllabus",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/ec/4/syllabus/indian_constitution.pdf",
+        "is_qp_available": false
+      }
+    ]
+  }
