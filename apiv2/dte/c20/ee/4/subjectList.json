@@ -1,0 +1,52 @@
+{
+    "subjects": [
+      {
+        "title": "All-In-One Syllabus",
+        "type": "",
+        "sub_title": "Syllabus",
+        "subject_code": "",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/ee/4/syllabus/all_in_one.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Electric Motors",
+        "type": "Programme Core",
+        "sub_title": "Syllabus",
+        "subject_code": "20EE41P",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/ee/4/syllabus/20EE41P.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Power Electronics",
+        "type": "Programme Core",
+        "subject_code": "20EE42P",
+        "sub_title": "Syllabus",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/ee/4/syllabus/20EE42P.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Fundamentals of Automation Technology",
+        "type": "Programme Core",
+        "subject_code": "20EE43P",
+        "sub_title": "Syllabus",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/ee/4/syllabus/20EE43P.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Computer Aided Electrical Drafting (CAED)",
+        "type": "Programme Core",
+        "subject_code": "20EE44P",
+        "sub_title": "Syllabus",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/ee/4/syllabus/20EE44P.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Indian Constitution",
+        "type": "Audit",
+        "subject_code": "20EE45T",
+        "sub_title": "Syllabus",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/ee/4/syllabus/20EE45T.pdf",
+        "is_qp_available": false
+      }
+    ]
+  }
