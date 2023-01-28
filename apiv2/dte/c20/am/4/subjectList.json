@@ -5,47 +5,47 @@
         "type": "",
         "sub_title": "Syllabus",
         "subject_code": "",
-        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/ec/4/syllabus/all_in_one.pdf",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/am/4/syllabus/all_in_one.pdf",
         "is_qp_available": false
       },
       {
-        "title": "PCB Design & Fabrication",
+        "title": "Advanced Automotive Systems",
         "type": "Programme Core",
         "sub_title": "Syllabus",
-        "subject_code": "20EC41P",
-        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/ec/4/syllabus/pcbdf.pdf",
+        "subject_code": "20AT41P",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/am/4/syllabus/20AT41P.pdf",
         "is_qp_available": false
       },
       {
-        "title": "Wireless Communication",
+        "title": "Design & Drafting",
         "type": "Programme Core",
-        "subject_code": "20EC42P",
+        "subject_code": "20AT42P",
         "sub_title": "Syllabus",
-        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/ec/4/syllabus/wireless_comm.pdf",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/am/4/syllabus/20AT42P.pdf",
         "is_qp_available": false
       },
       {
-        "title": "Embedded C Programming",
+        "title": "Vehicle body Engg & Dynamics",
         "type": "Programme Core",
-        "subject_code": "20EC43P",
+        "subject_code": "20AT43P",
         "sub_title": "Syllabus",
-        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/ec/4/syllabus/embedded_c.pdf",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/am/4/syllabus/20AT43P.pdf",
         "is_qp_available": false
       },
       {
-        "title": "Industrial Automation",
+        "title": "Fuels & Pollution Control",
         "type": "Programme Core",
-        "subject_code": "20EC44P",
+        "subject_code": "20AT44P",
         "sub_title": "Syllabus",
-        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/ec/4/syllabus/industrial_auto.pdf",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/am/4/syllabus/20AT44P.pdf",
         "is_qp_available": false
       },
       {
         "title": "Indian Constitution",
         "type": "Audit",
-        "subject_code": "20EC45T",
+        "subject_code": "20AT45T",
         "sub_title": "Syllabus",
-        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/ec/4/syllabus/indian_constitution.pdf",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/amec/4/syllabus/20AT45T.pdf",
         "is_qp_available": false
       }
     ]
