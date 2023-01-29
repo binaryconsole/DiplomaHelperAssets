@@ -1,0 +1,52 @@
+{
+    "subjects": [
+      {
+        "title": "All-In-One Syllabus",
+        "type": "",
+        "sub_title": "Syllabus",
+        "subject_code": "",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/mech/4/syllabus/all_in_one.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Operations Management",
+        "type": "Programme Core",
+        "sub_title": "Syllabus",
+        "subject_code": "20ME41P",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/mech/4/syllabus/20ME41P.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "CNC Programming & Machining",
+        "type": "Programme Core",
+        "subject_code": "20ME42P",
+        "sub_title": "Syllabus",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/mech/4/syllabus/20ME42P.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Product Design & Development",
+        "type": "Programme Core",
+        "subject_code": "20ME43P",
+        "sub_title": "Syllabus",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/mech/4/syllabus/20ME43P.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Elements of Industrial Automation",
+        "type": "Programme Core",
+        "subject_code": "20ME44P",
+        "sub_title": "Syllabus",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/mech/4/syllabus/20ME44P.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Indian Constitution",
+        "type": "Audit",
+        "subject_code": "20ME45T",
+        "sub_title": "Syllabus",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/mech/4/syllabus/20ME45T.pdf",
+        "is_qp_available": false
+      }
+    ]
+  }
