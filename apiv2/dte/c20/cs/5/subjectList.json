@@ -1,0 +1,84 @@
+{
+    "subjects": [
+      {
+        "title": "All-In-One Syllabus",
+        "type": "",
+        "sub_title": "Syllabus",
+        "subject_code": "",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/cs/5/syllabus/all_in_one.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Artificial Intelligence and Machine Learning",
+        "type": "Programme Specialization Pathway",
+        "sub_title": "Syllabus",
+        "subject_code": "20CS51I",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/cs/5/syllabus/ai_ml.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Fullstack Development",
+        "type": "Programme Specialization Pathway",
+        "subject_code": "20CS52I",
+        "sub_title": "Syllabus & Question papers",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/cs/5/syllabus/fullstack.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "Cloud Computing",
+        "type": "Programme Specialization Pathway",
+        "subject_code": "20CS53I",
+        "sub_title": "Syllabus",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/cs/5/syllabus/cloud.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Cyber Security",
+        "type": "Programme Specialization Pathway",
+        "subject_code": "20CS54I",
+        "sub_title": "Syllabus",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/cs/5/syllabus/cyber_security.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Paper 1 - Applied Maths",
+        "type": "Science & Research Pathway",
+        "subject_code": "20SC51T",
+        "sub_title": "-",
+        "syllabus": "",
+        "is_qp_available": false
+      },
+      {
+        "title": "Paper 2 - Applied Science",
+        "type": "Science & Research Pathway",
+        "subject_code": "20SC52T",
+        "sub_title": "-",
+        "syllabus": "",
+        "is_qp_available": false
+      },
+      {
+        "title": "Paper 3 - Research Methodology",
+        "type": "Science & Research Pathway",
+        "subject_code": "20RM53T",
+        "sub_title": "-",
+        "syllabus": "",
+        "is_qp_available": false
+      },
+      {
+        "title": "Paper 4 - Technical Writing",
+        "type": "Science & Research Pathway",
+        "subject_code": "20TW54P",
+        "sub_title": "-",
+        "syllabus": "",
+        "is_qp_available": false
+      },
+      {
+        "title": "Entrepreneurship and Start up",
+        "type": "Entrepreneurship Pathway",
+        "subject_code": "20ET51I",
+        "sub_title": "-",
+        "syllabus": "",
+        "is_qp_available": false
+      }
+    ]
+  }

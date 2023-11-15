@@ -1,0 +1,28 @@
+{
+    "subjects": [
+      {
+        "title": "Specialization Pathway",
+        "type": "Internship/Project",
+        "sub_title": "Syllabus",
+        "subject_code": "20CS61S",
+        "syllabus": "",
+        "is_qp_available": false
+      },
+      {
+        "title": "Science and Research Pathway",
+        "type": "Reseach Project",
+        "subject_code": "20CS61R",
+        "sub_title": "Syllabus",
+        "syllabus": "",
+        "is_qp_available": false
+      },
+      {
+        "title": "Entrepreneurship and Start-up pathway",
+        "type": "MVP/Incubation/Startup Proposal",
+        "subject_code": "20CS61E",
+        "sub_title": "Syllabus",
+        "syllabus": "",
+        "is_qp_available": false
+      }
+    ]
+  }
