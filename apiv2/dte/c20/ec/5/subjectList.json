@@ -1,0 +1,84 @@
+{
+    "subjects": [
+      {
+        "title": "All-In-One Syllabus",
+        "type": "",
+        "sub_title": "Syllabus",
+        "subject_code": "",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/ec/5/syllabus/all_in_one.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Drone Technologies",
+        "type": "Programme Specialization Pathway",
+        "sub_title": "Syllabus",
+        "subject_code": "20EC51I",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/ec/5/syllabus/drone_tech.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Industrial Internet of Things (IIoT)",
+        "type": "Programme Specialization Pathway",
+        "subject_code": "20EC52I",
+        "sub_title": "Syllabus",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/ec/5/syllabus/iiot.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Automation & Robotics",
+        "type": "Programme Specialization Pathway",
+        "subject_code": "20EC53I",
+        "sub_title": "Syllabus & Question papers",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/ec/5/syllabus/robotics.pdf",
+        "is_qp_available": true
+      },
+      {
+        "title": "E - Mobility",
+        "type": "Programme Specialization Pathway",
+        "subject_code": "20EC54I",
+        "sub_title": "Syllabus",
+        "syllabus": "https://raw.githubusercontent.com/binaryconsole/DiplomaHelperAssets/main/resources/files/c20/ec/5/syllabus/emobility.pdf",
+        "is_qp_available": false
+      },
+      {
+        "title": "Paper 1 - Applied Maths",
+        "type": "Science & Research Pathway",
+        "subject_code": "20SC51T",
+        "sub_title": "-",
+        "syllabus": "",
+        "is_qp_available": false
+      },
+      {
+        "title": "Paper 2 - Applied Science",
+        "type": "Science & Research Pathway",
+        "subject_code": "20SC52T",
+        "sub_title": "-",
+        "syllabus": "",
+        "is_qp_available": false
+      },
+      {
+        "title": "Paper 3 - Research Methodology",
+        "type": "Science & Research Pathway",
+        "subject_code": "20RM53T",
+        "sub_title": "-",
+        "syllabus": "",
+        "is_qp_available": false
+      },
+      {
+        "title": "Paper 4 - Technical Writing",
+        "type": "Science & Research Pathway",
+        "subject_code": "20TW54P",
+        "sub_title": "-",
+        "syllabus": "",
+        "is_qp_available": false
+      },
+      {
+        "title": "Entrepreneurship and Start up",
+        "type": "Entrepreneurship Pathway",
+        "subject_code": "20ET51I",
+        "sub_title": "-",
+        "syllabus": "",
+        "is_qp_available": false
+      }
+    ]
+  }
